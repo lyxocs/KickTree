@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Packet Classification/KickTree/KickTree v0.4/ElementaryClasses.h
+vector
+-
+queue
+-
+list
+-
+set
+-
+map
+-
+unordered_map
+-
+iostream
+-
+algorithm
+-
+random
+-
+numeric
+-
+math.h
+-
+memory
+-
+chrono
+-
+array
+-
+vector
+-
+./OVS/MapExtensions.h
+F:/Packet Classification/KickTree/KickTree v0.4/OVS/MapExtensions.h
+
+F:/Packet Classification/KickTree/KickTree v0.4/KickTree/KickTree.h
+iomanip
+-
+iostream
+-
+../ElementaryClasses.h
+F:/Packet Classification/KickTree/KickTree v0.4/ElementaryClasses.h
+
+F:/Packet Classification/KickTree/KickTree v0.4/KickTree/Tools.h
+KickTree.h
+F:/Packet Classification/KickTree/KickTree v0.4/KickTree/KickTree.h
+
+F:/Packet Classification/KickTree/KickTree v0.4/OVS/MapExtensions.h
+string
+-
+unordered_map
+-
+vector
+-
+
+F:/Packet Classification/KickTree/KickTree v0.4/main.cpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+cstring
+-
+map
+-
+./KickTree/KickTree.h
+F:/Packet Classification/KickTree/KickTree v0.4/KickTree/KickTree.h
+./KickTree/Tools.h
+F:/Packet Classification/KickTree/KickTree v0.4/KickTree/Tools.h
+

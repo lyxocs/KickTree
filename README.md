@@ -1,9 +1,3 @@
-## 0903
-### bugs:
-四层每层4个bit可能导致后面的bit无法选到
-
-### To-do:
-跳过无效bit即当前node节点中的所有规则在那一位都一样
-
-### Update in 10-22
-当树的个数达到一定或者规则少于一定比例，允许规则复制
+## usage:
+make
+./main [-r ruleFile] [-p traceFile] [-b binth] [-bit bit] [-t maxTree] [-l maxDepth]]
