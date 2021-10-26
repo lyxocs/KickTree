@@ -1,0 +1,11 @@
+./RuleFile
+
+*.o
+main
+main.exe
+run.*
+Update.md
+cmake-build-debug
+.vscode
+.idea
+
