@@ -15,4 +15,4 @@ main.o: main.cpp ElementaryClasses.h
 
 all: main
 clean:
-	rm -r *.o main
+	rm *.o main main.exe
