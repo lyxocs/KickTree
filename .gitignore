@@ -1,0 +1,6 @@
+*.o
+*.csv
+*.xlsx
+1
+acl_1k*
+.vscode
